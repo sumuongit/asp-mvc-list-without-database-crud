@@ -1,6 +1,6 @@
 MVC_CRUD_LIST/Content/* linguist-vendored
 MVC_CRUD_LIST/Scripts/* linguist-vendored
 
-MVC_CRUD_LIST/Models/* linguist-language=ASP.NET MVC
-MVC_CRUD_LIST/Views/* linguist-language=ASP.NET MVC
-MVC_CRUD_LIST/Controllers/* linguist-language=ASP.NET MVC
+MVC_CRUD_LIST/Models/* linguist-language=MVC
+MVC_CRUD_LIST/Views/* linguist-language=MVC
+MVC_CRUD_LIST/Controllers/* linguist-language=MVC
