@@ -8,7 +8,7 @@ namespace MVC_CRUD_LIST
     {
         public void Configuration(IAppBuilder app)
         {
-            //ConfigureAuth(app);
+            
         }
     }
 }
