@@ -6,7 +6,7 @@
 * [License](#license)
 
 ## General Info
-A sample application on CRUD operation using ASP.NET MVC and list object without any database
+A sample application on CRUD operation using ASP.NET MVC and list object without having any database
 
 ## Technologies
 This application is created with:
