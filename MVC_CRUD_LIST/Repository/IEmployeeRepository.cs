@@ -1,7 +1,6 @@
 ﻿using MVC_CRUD_LIST.Models;
-using System;
 using System.Collections.Generic;
-using System.Linq;
+
 namespace MVC_CRUD_LIST.Repository
 {
     public interface IEmployeeRepository
