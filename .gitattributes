@@ -7,3 +7,31 @@ MVC_CRUD_LIST/Models/* linguist-language=ASP
 MVC_CRUD_LIST/Views/* linguist-language=ASP
 MVC_CRUD_LIST/Controllers/* linguist-language=ASP
 
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+# Image files are treated as binary by default
+*.jpg   binary
+*.png   binary
+*.gif   binary
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+
